@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sethmich
-- 👀 I’m interested in crypto. ETH, Cosmos, Terra Bull.
-- 🌱 I’m currently learning finance in college.
-- 📫 How to reach me: Twitter: @sethmich
+- 👀 I’m interested in crypto. BTC, ETH, Cosmos, Terra Bull.
+- 🌱 I’m currently learning finance in college, set to graduate in May 2022.
+- 📫 Twitter - @sethmich
+- 💬 Discord - sethm#0432
