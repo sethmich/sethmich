@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sethmich
-- 👀 I’m interested in crypto. Borderline Bitcoin maxi, but also bullish on Ethereum and Cosmos blockchains.
-- 🌱 I’m currently learning finance in college, set to graduate in May 2022.
+- 👀 Bitcoin maximalist - node operator and miner
 - 📫 Twitter - @sethmich
-- 💬 Discord - sethm#0432 
+- 💬 Discord - sethm#0432
