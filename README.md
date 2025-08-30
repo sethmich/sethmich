@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @sethmich
-- 👀 Bitcoin maximalist - node operator and miner
 - 📫 Twitter - @sethmich
-- 💬 Discord - sethm#0432
